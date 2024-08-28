@@ -17,4 +17,7 @@
   a {
     @apply font-gemunu;
   }
+  .necmi {
+    @apply py-1 px-2 bg-transparent border;
+  }
 }
